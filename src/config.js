@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'RakibHasanNur', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,52 +10,39 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: '',
+        twitter: '',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
-        devto: 'arifszn',
-        website: 'https://arifszn.github.io',
+        devto: '',
+        website: 'https://rakibhasannur.github.io',
         phone: '',
-        email: 'arifulalamszn@gmail.com'
+        email: 'rakibhasannur@gmail.com'
     },
     skills: [
         'PHP',
-        'Laravel',
         'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
         'Jquery',
         'MySQL',
         'Git',
-        'Docker',
         'CSS',
-        'Antd',
-        'Tailwind',
         'Bootstrap',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Backend Engineer II',
-            from: 'September 2021',
+            company: 'iGen Software Ltd',
+            position: 'Jr. Frontend Developer',
+            from: 'Feb 2021',
+            to: 'May 2021'
+        },
+        { 
+            company: 'WeNexus LLC',
+            position: 'Shopify Developer',
+            from: 'June 2021',
             to: 'Present'
         },
-        { 
-            company: 'Orangetoolz',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
-        },
-        { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
-        }
     ],
     education: [
         { 
