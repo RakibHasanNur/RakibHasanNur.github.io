@@ -32,36 +32,30 @@ module.exports = {
     ],
     experiences: [
         { 
-            company: 'iGen Software Ltd',
-            position: 'Jr. Frontend Developer',
-            from: 'Feb 2021',
-            to: 'May 2021'
-        },
-        { 
             company: 'WeNexus LLC',
             position: 'Shopify Developer',
             from: 'June 2021',
             to: 'Present'
         },
+        { 
+            company: 'iGen Software Ltd',
+            position: 'Jr. Frontend Developer',
+            from: 'Feb 2021',
+            to: 'May 2021'
+        }
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
-            from: '2015',
+            institution: 'Ideal Labrotory college',
+            degree: 'Higher Secondary Certificate (HSC)',
+            from: '2017',
             to: '2019'
         },
         { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
-        },
-        { 
-            institution: 'Chowgacha Shahadat Pilot High School',
+            institution: 'Azizia Islamia High School',
             degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            from: '2015',
+            to: '2016'
         }
     ],
     blog: {
